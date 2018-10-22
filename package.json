@@ -1,0 +1,16 @@
+{
+  "name": "@upld/sdk-js",
+  "version": "0.1.2",
+  "description": "Integration library/SDK for the upld.app service",
+  "main": "upld-sdk.js",
+  "files": [
+    "upld-sdk.js",
+    "README.md",
+    "LICENSE.md"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Timo Dörr",
+  "license": "LicenseRef-LICENSE"
+}
