@@ -1,5 +1,20 @@
-(C) 2018+ Timo Dörr
+(C) 2018-present Timo Dörr
 
-This is code is proprietary. You may use and distribute it to third parties, as long as the code is not modified in any
-way and no other measures are taken to avoid using the upld.app backend. Using this code in an environment that replaces
-the upld.app backend by backend code from third parties is prohibited.
+This is code is PROPRIETARY. You may use and distribute it to third parties,
+as long as the code is not modified in any way and no other measures are taken
+to avoid using the upld.app backend. Using this code in an environment that
+replaces the upld.app backend by backend code from third parties is prohibited.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+This SDK uses licensed code from third parties that is not covered by the
+license notice in the first paragraph but subject to other licenses (like
+i.e. MIT or Apache license). See the OSS-ATTRIBUTION file for the licenses
+of those respective works.
+
